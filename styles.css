@@ -1,0 +1,51 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    margin: 20px; 
+}
+.category {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #007BFF;
+}
+.word-list { 
+    list-style: none; 
+    padding: 0; 
+}
+.word-item { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    max-width: 90%;  
+    margin: 10px auto; 
+    padding: 15px;  
+    border: 1px solid #ccc; 
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.word-text {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.english { 
+    font-size: 20px;  
+    font-weight: bold; 
+}
+.japanese { 
+    font-size: 16px;  
+    color: #555; 
+}
+.speaker-icon {
+    cursor: pointer;
+    font-size: 26px;
+    color: #007BFF;
+    transition: transform 0.1s;
+}
+.speaker-icon:hover {
+    color: #0056b3;
+}
+.speaker-icon:active {
+    transform: scale(0.9);
+}
