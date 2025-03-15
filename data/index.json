@@ -1,0 +1,8 @@
+{
+    "categories": [
+        { "name": "Numbers", "key": "numbers" },
+        { "name": "Time And Date", "key": "time-and-date" },
+        { "name": "Animals", "key": "animals" },
+        { "name": "Fruits", "key": "fruits" }
+    ]
+}
