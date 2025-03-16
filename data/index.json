@@ -1,8 +1,24 @@
 {
     "categories": [
-        { "name": "Numbers", "key": "numbers" },
-        { "name": "Time And Date", "key": "time-and-date" },
-        { "name": "Animals", "key": "animals" },
-        { "name": "Fruits", "key": "fruits" }
+        { "name": "Foods", "japanese": "食べ物", "key": "foods" },
+        { "name": "Drinks", "japanese": "飲み物", "key": "drinks" },
+        { "name": "Animals", "japanese": "どうぶつ", "key": "animals" },
+        { "name": "Human", "japanese": "人", "key": "human" },
+        { "name": "School", "japanese": "学校", "key": "school" },
+        { "name": "Sports and Leisure", "japanese": "スポーツとレジャー", "key": "sports-and-leisure" },
+        { "name": "Colors", "japanese": "色", "key": "colors" },
+        { "name": "Jobs", "japanese": "仕事", "key": "jobs" },
+        { "name": "House and Buildings", "japanese": "建物", "key": "house-and-buildings" },
+        { "name": "Nature", "japanese": "自然", "key": "nature" },
+        { "name": "Life", "japanese": "生活", "key": "life" },
+        { "name": "Countries", "japanese": "国", "key": "countries" },
+        { "name": "Shapes", "japanese": "かたち", "key": "shapes" },
+        { "name": "Body", "japanese": "体", "key": "body" },
+        { "name": "Seasons and Compass", "japanese": "季節と方角", "key": "seasons-and-compass" },
+        { "name": "Numbers", "japanese": "数", "key": "numbers" },
+        { "name": "Time and Date", "japanese": "時間と日付", "key": "time-and-date" },
+        { "name": "Verb", "japanese": "動詞(うごき)", "key": "verb" },
+        { "name": "Adjective", "japanese": "形容詞(様子や状態)", "key": "adjective" },
+        { "name": "Adverb", "japanese": "副詞(もっと説明)", "key": "adverb" }        
     ]
 }
