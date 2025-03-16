@@ -52,19 +52,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function speakWord(word, element) {
     const utterance = new SpeechSynthesisUtterance(word);
-    utterance.lang = "en-US"; // 英語を指定
-
-    // 音声を英語に指定（利用可能な音声リストから選ぶ）
-    const voices = speechSynthesis.getVoices();
-    const englishVoice = voices.find(voice => voice.lang === "en-US");
-
-    if (englishVoice) {
-        utterance.voice = englishVoice;
-    }
-
+    utterance.lang = "en-US";
     speechSynthesis.speak(utterance);
 
     element.style.transform = "scale(0.9)";
     setTimeout(() => { element.style.transform = "scale(1)"; }, 100);
 }
-
