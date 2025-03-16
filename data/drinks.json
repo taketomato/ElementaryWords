@@ -1,0 +1,10 @@
+[
+    { "english": "water", "japanese": "水", "emoji": "💧" },
+    { "english": "milk", "japanese": "牛乳", "emoji": "🥛" },
+    { "english": "juice", "japanese": "ジュース", "emoji": "🧃" },
+    { "english": "coffee", "japanese": "コーヒー", "emoji": "☕" },
+    { "english": "tea", "japanese": "紅茶", "emoji": "🍵" },
+    { "english": "green tea", "japanese": "日本茶、緑茶", "emoji": "🍵" },
+    { "english": "mineral water", "japanese": "ミネラルウォーター", "emoji": "💦" },
+    { "english": "soda pop", "japanese": "炭酸飲料", "emoji": "🥤" }
+]

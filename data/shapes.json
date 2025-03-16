@@ -1,0 +1,11 @@
+[
+    { "english": "shape", "japanese": "形", "emoji": "🔷" },
+    { "english": "circle", "japanese": "円", "emoji": "⭕" },
+    { "english": "triangle", "japanese": "三角形", "emoji": "🔺" },
+    { "english": "square", "japanese": "正方形", "emoji": "🟧" },
+    { "english": "rectangle", "japanese": "長方形", "emoji": "🟦" },
+    { "english": "diamond", "japanese": "ひし形", "emoji": "🔶" },
+    { "english": "heart", "japanese": "ハート形", "emoji": "❤️" },
+    { "english": "star", "japanese": "星形、星", "emoji": "⭐" },
+    { "english": "cross", "japanese": "十字形", "emoji": "✞" }
+]

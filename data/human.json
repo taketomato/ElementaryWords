@@ -1,0 +1,13 @@
+[
+    { "english": "man", "japanese": "男の人", "emoji": "👨" },
+    { "english": "woman", "japanese": "女の人", "emoji": "👩" },
+    { "english": "boy", "japanese": "男の子", "emoji": "👦" },
+    { "english": "girl", "japanese": "女の子", "emoji": "👧" },
+    { "english": "father", "japanese": "父", "emoji": "👨‍👧‍👦" },
+    { "english": "mother", "japanese": "母", "emoji": "👩‍👧‍👦" },
+    { "english": "brother", "japanese": "兄、弟", "emoji": "👬" },
+    { "english": "sister", "japanese": "姉、妹", "emoji": "👭" },
+    { "english": "grandfather", "japanese": "祖父", "emoji": "👴" },
+    { "english": "grandmother", "japanese": "祖母", "emoji": "👵" },
+    { "english": "friend", "japanese": "友達", "emoji": "👯" }
+]

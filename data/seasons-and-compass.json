@@ -1,0 +1,10 @@
+[
+    { "english": "spring", "japanese": "春", "emoji": "🌸" },
+    { "english": "summer", "japanese": "夏", "emoji": "🌞" },
+    { "english": "autumn", "japanese": "秋", "emoji": "🍂" },
+    { "english": "winter", "japanese": "冬", "emoji": "❄️" },
+    { "english": "east", "japanese": "東", "emoji": "➡️" },
+    { "english": "west", "japanese": "西", "emoji": "⬅️" },
+    { "english": "south", "japanese": "南", "emoji": "⬇️" },
+    { "english": "north", "japanese": "北", "emoji": "⬆️" }
+]

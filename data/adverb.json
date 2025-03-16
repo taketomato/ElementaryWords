@@ -1,0 +1,23 @@
+[
+    { "english": "not", "japanese": "〜でない", "emoji": "❌" },
+    { "english": "up", "japanese": "上へ", "emoji": "⬆️" },
+    { "english": "down", "japanese": "下へ", "emoji": "⬇️" },
+    { "english": "right", "japanese": "右へ", "emoji": "➡️" },
+    { "english": "left", "japanese": "左へ", "emoji": "⬅️" },
+    { "english": "here", "japanese": "ここで", "emoji": "📍" },
+    { "english": "outside", "japanese": "外で", "emoji": "🌍" },
+    { "english": "straight", "japanese": "まっすぐに", "emoji": "↔️" },
+    { "english": "very", "japanese": "とても", "emoji": "🔥" },
+    { "english": "well", "japanese": "上手に、よく", "emoji": "👍" },
+    { "english": "so", "japanese": "そのように、とても", "emoji": "👌" },
+    { "english": "always", "japanese": "いつも", "emoji": "🔄" },
+    { "english": "usually", "japanese": "ふつうは、たいていは", "emoji": "📅" },
+    { "english": "sometimes", "japanese": "ときどき", "emoji": "⏳" },
+    { "english": "never", "japanese": "決して〜ない", "emoji": "🚫" },
+    { "english": "together", "japanese": "一緒に", "emoji": "🤝" },
+    { "english": "when", "japanese": "いつ", "emoji": "⏰" },
+    { "english": "where", "japanese": "どこに", "emoji": "📍" },
+    { "english": "how", "japanese": "どのようにして", "emoji": "❓" },
+    { "english": "why", "japanese": "なぜ", "emoji": "🤔" },
+    { "english": "then", "japanese": "その時、それなら", "emoji": "👉" }
+]

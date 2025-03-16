@@ -1,0 +1,14 @@
+[
+    { "english": "eye", "japanese": "目", "emoji": "👁️" },
+    { "english": "ear", "japanese": "耳", "emoji": "👂" },
+    { "english": "nose", "japanese": "鼻", "emoji": "👃" },
+    { "english": "mouth", "japanese": "口", "emoji": "👄" },
+    { "english": "teeth", "japanese": "歯", "emoji": "🦷" },
+    { "english": "face", "japanese": "顔", "emoji": "🙂" },
+    { "english": "head", "japanese": "頭", "emoji": "🧠" },
+    { "english": "hand", "japanese": "手", "emoji": "✋" },
+    { "english": "shoulder", "japanese": "肩", "emoji": "💪" },
+    { "english": "knee", "japanese": "ひざ", "emoji": "🦵" },
+    { "english": "leg", "japanese": "あし", "emoji": "🦵" },
+    { "english": "toe", "japanese": "つま先", "emoji": "🦶" }
+]

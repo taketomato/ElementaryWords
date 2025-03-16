@@ -1,0 +1,13 @@
+[
+    { "english": "color", "japanese": "色", "emoji": "🎨" },
+    { "english": "white", "japanese": "白", "emoji": "🤍" },
+    { "english": "black", "japanese": "黒", "emoji": "🖤" },
+    { "english": "red", "japanese": "赤", "emoji": "❤️" },
+    { "english": "blue", "japanese": "青", "emoji": "💙" },
+    { "english": "yellow", "japanese": "黄色", "emoji": "💛" },
+    { "english": "green", "japanese": "緑色", "emoji": "💚" },
+    { "english": "orange", "japanese": "オレンジ色", "emoji": "🧡" },
+    { "english": "pink", "japanese": "ピンク", "emoji": "💗" },
+    { "english": "brown", "japanese": "茶色", "emoji": "🤎" },
+    { "english": "purple", "japanese": "紫色", "emoji": "💜" }
+]
